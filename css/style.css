@@ -1,0 +1,45 @@
+body{
+    background: #7C252D;
+}
+
+.container{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 0%;
+    margin-bottom: 2%;
+}
+
+.background-body{
+    background: #FFFFFE;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.social-media-nav{
+    margin: 10%;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: #3C9A8E;
+}
+
+.menu-color{
+    background: #FFAC6A;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.contenedor-blog{
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.section-info{
+    padding: 2%;
+}
+
