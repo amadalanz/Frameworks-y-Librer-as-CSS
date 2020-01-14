@@ -1,0 +1,13 @@
+body{
+    background: url(../img/michael-browning.jpg) no-repeat fixed; /* Photo by Christian Mackie on Unsplash */
+    background-size: cover;
+    color: white;
+}
+
+.container{
+    width: 90%;
+    background: hsl(186, 67%, 43%, 0.3);
+    /* text-align: center; */
+
+}
+
